@@ -1,6 +1,3 @@
-
-# Distance Between Dublin and World Capitals - Tableau Visualization
-
 ## Overview
 
 This Tableau visualization showcases the distance between Dublin, Ireland, and various world capitals. The goal is to analyze and visually represent the geographic relationships between Dublin and different capital cities around the globe.
@@ -19,10 +16,10 @@ By utilizing Tableau’s calculated fields—`MAKEPOINT` and `MAKELINE`—this v
 - **Interactive Exploration**: Viewers can hover over or click on individual cities to learn the exact distance between them and Dublin.
 - **Global Coverage**: The map includes most of the world’s capitals for comparative analysis.
 
-## Files\
-- `Dublin_WorldCapital_Distance.twbx`\
-- `WorldCapitalDistance.png`\
-- `README.md` \
+## Files
+- `Dublin_WorldCapital_Distance.twbx`
+- `WorldCapitalDistance.png`
+- `README.md` 
 
 ## How to View
 1. Clone or download the repository.
